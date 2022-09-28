@@ -1,0 +1,8 @@
+{
+  "name": "rn_0_70_1_admob_reload",
+  "displayName": "rn_0_70_1_admob_reload",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "ios_app_id": "ca-app-pub-xxxxxxxx~xxxxxxxx"
+  }
+}
